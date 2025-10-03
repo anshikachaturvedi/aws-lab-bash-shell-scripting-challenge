@@ -20,8 +20,8 @@ This command does the following:
 The script then uses this number to calculate the start and end of the next batch of 25 files.
 
 ## Usage and Demonstration
-- Make the script executable: (chmod +x create_files.sh)
-- Run the script: (./create_files.sh)
+- Make the script executable: `chmod +x create_files.sh`
+- Run the script: `./create_files.sh`
 
 ## Technologies Used
 - Bash Scripting
